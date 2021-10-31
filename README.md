@@ -1,5 +1,4 @@
 ### 👋 Hi there
-![image](https://user-images.githubusercontent.com/70815675/121785780-790f3380-cbc4-11eb-9b7d-42cf3c3ace3c.png)
 
 Hi! Welcome to my github. 
 Here I publish my solutions from time to time.
